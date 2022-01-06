@@ -11,4 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about java,c#,data structure and automation
 - 📫 How to reach me: Linked-in: https://www.linkedin.com/in/pallavi-dubey-72b776191/ 
 -                      HacherRank: https://www.hackerrank.com/rebelpallavi786
+-                       Linked-in: https://www.linkedin.com/in/pallavi-dubey-72b776191/ 
 -                      
